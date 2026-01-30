@@ -38,6 +38,15 @@
           <button data-filter="combo">Combo</button>
           <button data-filter="meals">Meals</button>
         </div>
+        <div class="cart-panel">
+          <strong>Your Order</strong>
+          <div class="cart-items" data-cart-items></div>
+          <div class="cart-actions">
+            <span class="small">Total: <strong data-cart-total>£0.00</strong></span>
+            <button type="button" data-checkout>Checkout</button>
+          </div>
+          <p class="small">Delivery fee £3 will be added at checkout.</p>
+        </div>
         <div class="card-grid" data-product-grid data-category="all"></div>
       </div>
     </section>
@@ -55,6 +64,7 @@
         </div>
       </div>
     </footer>
-    <script src="js/app.js?v=2"></script>
+    <script src="js/config.js"></script>
+    <script src="js/app.js?v=3"></script>
   </body>
 </html>
