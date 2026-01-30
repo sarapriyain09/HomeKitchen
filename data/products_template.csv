@@ -1,0 +1,48 @@
+name,category,price,image,description
+Veg Biryani,veg,5.00,Food/Veg Briyani.jpg,Aromatic basmati rice with seasonal vegetables and spices.
+Veg Biryani (Classic),veg,5.00,Food/veg Briyani2.jpg,Slow-cooked veg biryani with house spice blend.
+Veg Biryani (Chef Special),veg,6.00,Food/veg briyani3.jpeg,Fragrant rice and vegetables finished with fresh herbs.
+Vegetable Biryani,veg,5.00,Food/best_vegetable_biryani_recipe.jpg,Vegetable biryani with warm spices and ghee.
+Idli,veg,4.00,Food/idli-recipe-500x500.jpg,Soft steamed rice cakes with chutney and sambar.
+Dosa,veg,4.00,Food/dosa.jpeg,Crispy dosa served with chutneys and sambar.
+Plain Dosa,veg,4.00,Food/Plain-Dosa-500x500.webp,Classic plain dosa with a light golden finish.
+Medu Vada,veg,4.00,Food/Medu-vada.png,Crispy lentil doughnuts with coconut chutney.
+Masala Vada,veg,4.00,Food/Masala-Vada.jpg,"Spiced chana dal fritters, crunchy and flavorful."
+Pongal,veg,4.00,Food/pongal.jpg,Comforting rice and lentil porridge with ghee.
+Ven Pongal,veg,4.00,Food/ven-pongal-1.jpeg,"Savory ven pongal with pepper, cumin, and cashew."
+Poori Masala,veg,4.50,Food/poori-masala-kizhangu.webp,Fluffy poori with potato masala curry.
+Rava Kichadi,veg,4.00,Food/rav kichedi.jpg,Rava kichadi with vegetables and aromatic tempering.
+Carrot Halwa,veg,3.00,Food/carrot.jpg,Slow-cooked carrot dessert with ghee and nuts.
+Chicken 65,non-veg,7.00,Food/chicken 65 8.JPG,"Crispy, spicy chicken bites with curry leaves."
+Chicken 65 (Crispy),non-veg,7.00,Food/chicken-65-restaurant-style-500x500.jpg,Restaurant-style chicken 65 with bold seasoning.
+Chicken 65 (Spicy),non-veg,7.00,Food/Chicken-65-Spicy-Crispy-3-500x500.jpg,Extra spicy chicken 65 with crunchy coating.
+Chicken Biryani,non-veg,5.00,Food/chiken briyani.jpg,Classic chicken biryani with fragrant basmati rice.
+South Indian Chicken Biryani,non-veg,5.00,Food/South-Indian-chicken-biryani-500x500.jpg,South Indian style chicken biryani with deep spices.
+Mutton Biryani,non-veg,7.00,Food/mutton briyani.jpg,Slow-cooked mutton with fragrant rice and herbs.
+Lamb Biryani,non-veg,7.00,Food/Lamp Briyani.jpg,Tender lamb biryani with saffron and spices.
+Thalappakatti Biryani,non-veg,7.00,Food/thalappakatti-biryani-2.webp,"Signature biryani with rich, bold masala."
+Thalappakatti Biryani (Special),non-veg,7.00,Food/Thalappakatti-Biryani-5-500x500.jpg,Premium biryani prepared with signature spice mix.
+Mutton Chukka,non-veg,7.00,Food/mutton chukka.jpeg,Dry roasted mutton with pepper and curry leaves.
+Lamb Chukka,non-veg,7.00,Food/LambChukka.webp,Spicy lamb chukka with caramelized onions.
+Mutton Masala,non-veg,5.00,Food/Mutton-masala-17-500x500.jpg,Mutton masala curry cooked in rich gravy.
+Chicken Gravy,non-veg,5.00,Food/chiken gravy.jpg,Comforting chicken gravy with house spices.
+Chicken Gravy (Chef Style),non-veg,5.00,Food/ChickenGravy1-500x500.jpg,"Chef-style chicken gravy, rich and aromatic."
+Chicken Sapadu,non-veg,7.00,Food/chicken-sapadu.jpg,Traditional chicken sapadu platter with sides.
+Fish Fry,non-veg,6.00,Food/fish fry.jpeg,Crispy fish fry with lemon and spice rub.
+Prawn 65,non-veg,5.00,Food/Prawan 65.jpg,"Prawn 65 with spicy, crunchy coating."
+Prawn 65 (Classic),non-veg,5.00,Food/Prawn-65-1-e1581647220815-500x500.jpg,Classic prawn 65 tossed with garlic and chili.
+South Indian Meal,meals,5.00,Food/south-indian-500x500.webp,"Rice, sambar, rasam, poriyal, and papad."
+Fish Meal,meals,8.00,Food/fish meal.jpg,Fish curry meal with rice and sides.
+Mutton Sapadu,meals,8.00,Food/mutton sapadu.jpg,Hearty mutton sapadu with rice and accompaniments.
+Non Veg Thali,meals,10.00,Food/NOn veg Thalai.jpg,"Non-veg thali with curry, rice, and sides."
+Non Veg Meal,meals,7.00,Food/Non veg.jpeg,Non-veg meal platter with traditional flavors.
+Sapadu Platter,meals,7.00,Food/dihs sapadu.jpg,"Complete sapadu platter with rice, curries, and sides."
+Family Combo,combo,25.00,Food/our food.jpg,"Veg + non-veg mains, rice, naan, and dessert for sharing."
+Office Lunch Combo,combo,20.00,Food/our first order.jpg,"Curated lunch pack with mains, sides, and drinks."
+Combo Special,combo,20.00,Food/combo/3.jpg,"Combo meal with mains, rice, and sides."
+Combo Feast,combo,25.00,Food/combo/4.jpg,Family-sized combo with curated dishes.
+Combo Revised,combo,25.00,Food/combo revised/3.jpg,Revised combo platter with updated selection.
+Combo Revised (Large),combo,25.00,Food/combo revised/4.jpg,Large combo platter for gatherings.
+Combo Biryani,combo,15.00,Food/combo revised/check briyani.jpeg,Combo with biryani and signature sides.
+Combo Special (Thalap),combo,15.00,Food/combo revised/thalap.jpeg,Special combo featuring signature thalap menu.
+Combo Signature,combo,25.00,Food/combo revised/combo.jpg,Signature combo platter with premium items.

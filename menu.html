@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Menu | Home Kitchen</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container nav">
+        <a class="brand" href="index.html">
+          <span class="brand-badge">HK</span>
+          <span>Home Kitchen</span>
+        </a>
+        <nav class="nav-links">
+          <a href="index.html">Home</a>
+          <a class="active" href="menu.html">Menu</a>
+          <a href="veg.html">Veg</a>
+          <a href="non-veg.html">Non Veg</a>
+          <a href="combo.html">Combo</a>
+          <a href="meals.html">Meals</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-title">
+          <h2>Full Menu</h2>
+          <span class="small">Products will be loaded later</span>
+        </div>
+        <div class="menu-filters">
+          <button class="active" data-filter="all">All</button>
+          <button data-filter="veg">Veg</button>
+          <button data-filter="non-veg">Non Veg</button>
+          <button data-filter="combo">Combo</button>
+          <button data-filter="meals">Meals</button>
+        </div>
+        <div class="card-grid" data-product-grid data-category="all"></div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container footer-grid">
+        <div>
+          <strong>Home Kitchen</strong>
+          <p class="small">Comfort food, crafted fresh every day.</p>
+        </div>
+        <div>
+          <strong>Need help?</strong>
+          <p class="small">hello@homekitchen.uk</p>
+          <p class="small">+44 0000 000000</p>
+        </div>
+      </div>
+    </footer>
+    <script src="js/app.js?v=2"></script>
+  </body>
+</html>

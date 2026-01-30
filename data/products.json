@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Veg Biryani",
+    "category": "veg",
+    "price": "5.00",
+    "image": "Food/Veg Briyani.jpg",
+    "description": "Aromatic basmati rice with seasonal vegetables and spices."
+  },
+  {
+    "name": "Veg Biryani (Classic)",
+    "category": "veg",
+    "price": "5.00",
+    "image": "Food/veg Briyani2.jpg",
+    "description": "Slow-cooked veg biryani with house spice blend."
+  },
+  {
+    "name": "Veg Biryani (Chef Special)",
+    "category": "veg",
+    "price": "6.00",
+    "image": "Food/veg briyani3.jpeg",
+    "description": "Fragrant rice and vegetables finished with fresh herbs."
+  },
+  {
+    "name": "Vegetable Biryani",
+    "category": "veg",
+    "price": "5.00",
+    "image": "Food/best_vegetable_biryani_recipe.jpg",
+    "description": "Vegetable biryani with warm spices and ghee."
+  },
+  {
+    "name": "Idli",
+    "category": "veg",
+    "price": "4.00",
+    "image": "Food/idli-recipe-500x500.jpg",
+    "description": "Soft steamed rice cakes with chutney and sambar."
+  },
+  {
+    "name": "Dosa",
+    "category": "veg",
+    "price": "4.00",
+    "image": "Food/dosa.jpeg",
+    "description": "Crispy dosa served with chutneys and sambar."
+  },
+  {
+    "name": "Plain Dosa",
+    "category": "veg",
+    "price": "4.00",
+    "image": "Food/Plain-Dosa-500x500.webp",
+    "description": "Classic plain dosa with a light golden finish."
+  },
+  {
+    "name": "Medu Vada",
+    "category": "veg",
+    "price": "4.00",
+    "image": "Food/Medu-vada.png",
+    "description": "Crispy lentil doughnuts with coconut chutney."
+  },
+  {
+    "name": "Masala Vada",
+    "category": "veg",
+    "price": "4.00",
+    "image": "Food/Masala-Vada.jpg",
+    "description": "Spiced chana dal fritters, crunchy and flavorful."
+  },
+  {
+    "name": "Pongal",
+    "category": "veg",
+    "price": "4.00",
+    "image": "Food/pongal.jpg",
+    "description": "Comforting rice and lentil porridge with ghee."
+  },
+  {
+    "name": "Ven Pongal",
+    "category": "veg",
+    "price": "4.00",
+    "image": "Food/ven-pongal-1.jpeg",
+    "description": "Savory ven pongal with pepper, cumin, and cashew."
+  },
+  {
+    "name": "Poori Masala",
+    "category": "veg",
+    "price": "4.50",
+    "image": "Food/poori-masala-kizhangu.webp",
+    "description": "Fluffy poori with potato masala curry."
+  },
+  {
+    "name": "Rava Kichadi",
+    "category": "veg",
+    "price": "4.00",
+    "image": "Food/rav kichedi.jpg",
+    "description": "Rava kichadi with vegetables and aromatic tempering."
+  },
+  {
+    "name": "Carrot Halwa",
+    "category": "veg",
+    "price": "3.00",
+    "image": "Food/carrot.jpg",
+    "description": "Slow-cooked carrot dessert with ghee and nuts."
+  },
+  {
+    "name": "Chicken 65",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/chicken 65 8.JPG",
+    "description": "Crispy, spicy chicken bites with curry leaves."
+  },
+  {
+    "name": "Chicken 65 (Crispy)",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/chicken-65-restaurant-style-500x500.jpg",
+    "description": "Restaurant-style chicken 65 with bold seasoning."
+  },
+  {
+    "name": "Chicken 65 (Spicy)",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/Chicken-65-Spicy-Crispy-3-500x500.jpg",
+    "description": "Extra spicy chicken 65 with crunchy coating."
+  },
+  {
+    "name": "Chicken Biryani",
+    "category": "non-veg",
+    "price": "5.00",
+    "image": "Food/chiken briyani.jpg",
+    "description": "Classic chicken biryani with fragrant basmati rice."
+  },
+  {
+    "name": "South Indian Chicken Biryani",
+    "category": "non-veg",
+    "price": "5.00",
+    "image": "Food/South-Indian-chicken-biryani-500x500.jpg",
+    "description": "South Indian style chicken biryani with deep spices."
+  },
+  {
+    "name": "Mutton Biryani",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/mutton briyani.jpg",
+    "description": "Slow-cooked mutton with fragrant rice and herbs."
+  },
+  {
+    "name": "Lamb Biryani",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/Lamp Briyani.jpg",
+    "description": "Tender lamb biryani with saffron and spices."
+  },
+  {
+    "name": "Thalappakatti Biryani",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/thalappakatti-biryani-2.webp",
+    "description": "Signature biryani with rich, bold masala."
+  },
+  {
+    "name": "Thalappakatti Biryani (Special)",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/Thalappakatti-Biryani-5-500x500.jpg",
+    "description": "Premium biryani prepared with signature spice mix."
+  },
+  {
+    "name": "Mutton Chukka",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/mutton chukka.jpeg",
+    "description": "Dry roasted mutton with pepper and curry leaves."
+  },
+  {
+    "name": "Lamb Chukka",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/LambChukka.webp",
+    "description": "Spicy lamb chukka with caramelized onions."
+  },
+  {
+    "name": "Mutton Masala",
+    "category": "non-veg",
+    "price": "5.00",
+    "image": "Food/Mutton-masala-17-500x500.jpg",
+    "description": "Mutton masala curry cooked in rich gravy."
+  },
+  {
+    "name": "Chicken Gravy",
+    "category": "non-veg",
+    "price": "5.00",
+    "image": "Food/chiken gravy.jpg",
+    "description": "Comforting chicken gravy with house spices."
+  },
+  {
+    "name": "Chicken Gravy (Chef Style)",
+    "category": "non-veg",
+    "price": "5.00",
+    "image": "Food/ChickenGravy1-500x500.jpg",
+    "description": "Chef-style chicken gravy, rich and aromatic."
+  },
+  {
+    "name": "Chicken Sapadu",
+    "category": "non-veg",
+    "price": "7.00",
+    "image": "Food/chicken-sapadu.jpg",
+    "description": "Traditional chicken sapadu platter with sides."
+  },
+  {
+    "name": "Fish Fry",
+    "category": "non-veg",
+    "price": "6.00",
+    "image": "Food/fish fry.jpeg",
+    "description": "Crispy fish fry with lemon and spice rub."
+  },
+  {
+    "name": "Prawn 65",
+    "category": "non-veg",
+    "price": "5.00",
+    "image": "Food/Prawan 65.jpg",
+    "description": "Prawn 65 with spicy, crunchy coating."
+  },
+  {
+    "name": "Prawn 65 (Classic)",
+    "category": "non-veg",
+    "price": "5.00",
+    "image": "Food/Prawn-65-1-e1581647220815-500x500.jpg",
+    "description": "Classic prawn 65 tossed with garlic and chili."
+  },
+  {
+    "name": "South Indian Meal",
+    "category": "meals",
+    "price": "5.00",
+    "image": "Food/south-indian-500x500.webp",
+    "description": "Rice, sambar, rasam, poriyal, and papad."
+  },
+  {
+    "name": "Fish Meal",
+    "category": "meals",
+    "price": "8.00",
+    "image": "Food/fish meal.jpg",
+    "description": "Fish curry meal with rice and sides."
+  },
+  {
+    "name": "Mutton Sapadu",
+    "category": "meals",
+    "price": "8.00",
+    "image": "Food/mutton sapadu.jpg",
+    "description": "Hearty mutton sapadu with rice and accompaniments."
+  },
+  {
+    "name": "Non Veg Thali",
+    "category": "meals",
+    "price": "10.00",
+    "image": "Food/NOn veg Thalai.jpg",
+    "description": "Non-veg thali with curry, rice, and sides."
+  },
+  {
+    "name": "Non Veg Meal",
+    "category": "meals",
+    "price": "7.00",
+    "image": "Food/Non veg.jpeg",
+    "description": "Non-veg meal platter with traditional flavors."
+  },
+  {
+    "name": "Sapadu Platter",
+    "category": "meals",
+    "price": "7.00",
+    "image": "Food/dihs sapadu.jpg",
+    "description": "Complete sapadu platter with rice, curries, and sides."
+  },
+  {
+    "name": "Family Combo",
+    "category": "combo",
+    "price": "25.00",
+    "image": "Food/our food.jpg",
+    "description": "Veg + non-veg mains, rice, naan, and dessert for sharing."
+  },
+  {
+    "name": "Office Lunch Combo",
+    "category": "combo",
+    "price": "20.00",
+    "image": "Food/our first order.jpg",
+    "description": "Curated lunch pack with mains, sides, and drinks."
+  },
+  {
+    "name": "Combo Special",
+    "category": "combo",
+    "price": "20.00",
+    "image": "Food/combo/3.jpg",
+    "description": "Combo meal with mains, rice, and sides."
+  },
+  {
+    "name": "Combo Feast",
+    "category": "combo",
+    "price": "25.00",
+    "image": "Food/combo/4.jpg",
+    "description": "Family-sized combo with curated dishes."
+  },
+  {
+    "name": "Combo Revised",
+    "category": "combo",
+    "price": "25.00",
+    "image": "Food/combo revised/3.jpg",
+    "description": "Revised combo platter with updated selection."
+  },
+  {
+    "name": "Combo Revised (Large)",
+    "category": "combo",
+    "price": "25.00",
+    "image": "Food/combo revised/4.jpg",
+    "description": "Large combo platter for gatherings."
+  },
+  {
+    "name": "Combo Biryani",
+    "category": "combo",
+    "price": "15.00",
+    "image": "Food/combo revised/check briyani.jpeg",
+    "description": "Combo with biryani and signature sides."
+  },
+  {
+    "name": "Combo Special (Thalap)",
+    "category": "combo",
+    "price": "15.00",
+    "image": "Food/combo revised/thalap.jpeg",
+    "description": "Special combo featuring signature thalap menu."
+  },
+  {
+    "name": "Combo Signature",
+    "category": "combo",
+    "price": "25.00",
+    "image": "Food/combo revised/combo.jpg",
+    "description": "Signature combo platter with premium items."
+  }
+]
